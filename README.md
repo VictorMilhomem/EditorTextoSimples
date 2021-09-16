@@ -6,3 +6,7 @@
     - Font change
     - Save file
     - Open file
+
+## Print Screen
+
+![Alt text](./.printscreen/printscreen.png "a title")
